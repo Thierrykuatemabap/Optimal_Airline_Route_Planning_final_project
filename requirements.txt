@@ -1,0 +1,11 @@
+# Dependencies from notebook imports and spreadsheet/HTML input readers.
+numpy
+pandas
+matplotlib
+networkx
+folium
+pulp
+openpyxl
+lxml
+html5lib
+notebook
